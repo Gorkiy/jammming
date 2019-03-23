@@ -1,6 +1,7 @@
 let accessToken = '';
 const clientId = '39c11e0aad5344df9a592ad2bb09513b';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://villa-jammming.surge.sh';
+// const redirectURI = 'http://localhost:3000/';
 
 const Spotify = {
   getAccessToken() {
